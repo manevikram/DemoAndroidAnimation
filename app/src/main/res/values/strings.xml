@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">DemoAndroidAnimation</string>
 
+    <string name="txt_xml_animation">XML Animation</string>
+    <string name="txt_lottie_animation">Lottie Animation</string>
+
     <string name="txt_logo_image">Logo Image</string>
     <string name="txt_zoom_in">Zoom In</string>
     <string name="txt_zoom_out">Zoom Out</string>
