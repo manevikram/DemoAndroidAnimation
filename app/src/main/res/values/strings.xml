@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DemoAndroidAnimation</string>
+
+    <string name="txt_logo_image">Logo Image</string>
+    <string name="txt_zoom_in">Zoom In</string>
+    <string name="txt_zoom_out">Zoom Out</string>
+    <string name="txt_fade_in">Fade In</string>
+    <string name="txt_fade_out">Fade Out</string>
+    <string name="txt_slide_left">Slide Left</string>
+    <string name="txt_slide_right">Slide Right</string>
+    <string name="txt_slide_up">Slide Up</string>
+    <string name="txt_slide_down">Slide Down</string>
+    <string name="txt_zoom_in_fade_in">Zoom In + Fade In</string>
+    <string name="txt_zoom_out_fade_out">Zoom Out + Fade Out</string>
+    <string name="txt_rotate">Rotate</string>
+    <string name="txt_move">Move</string>
+    <string name="txt_translate">Translate</string>
+    <string name="txt_alpha">Alpha</string>
+    <string name="txt_scale">Scale</string>
+    <string name="txt_scale_rotate">Scale Rotate</string>
+
+</resources>
